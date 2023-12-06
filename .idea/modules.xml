@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FaceLogin.iml" filepath="$PROJECT_DIR$/.idea/FaceLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceLoginServer/FaceLoginServer.iml" filepath="$PROJECT_DIR$/FaceLoginServer/FaceLoginServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceLoginServer/micro-api/micro-api.iml" filepath="$PROJECT_DIR$/FaceLoginServer/micro-api/micro-api.iml" />
+    </modules>
+  </component>
+</project>
